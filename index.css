@@ -1,0 +1,22 @@
+body {
+    background-color: #80808024;
+}
+.header-wrapper {
+    text-align: center;
+    margin-top: 210px;
+    font-size: 25px;
+}
+.btn{
+    color: white;
+    background-color: gray;
+    border: none;
+    padding: 10px 29px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.inputfield {
+    background: #f8f9fa;
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+}
